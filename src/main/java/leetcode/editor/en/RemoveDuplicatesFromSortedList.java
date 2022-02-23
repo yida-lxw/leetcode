@@ -1,5 +1,6 @@
 package leetcode.editor.en;
 
+import leetcode.editor.en.bean.ListNode;
 import leetcode.editor.en.utils.LinkedListUtils;
 
 /**

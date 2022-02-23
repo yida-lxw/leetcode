@@ -1,6 +1,6 @@
 package leetcode.editor.en.utils;
 
-import leetcode.editor.en.ListNode;
+import leetcode.editor.en.bean.ListNode;
 
 /**
  * @Author yida
