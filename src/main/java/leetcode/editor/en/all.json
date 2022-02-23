@@ -357,7 +357,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "28",
-    "status": "",
+    "status": "ac",
     "title": "Implement strStr()",
     "titleSlug": "implement-strstr"
   },
@@ -448,7 +448,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "35",
-    "status": "",
+    "status": "ac",
     "title": "Search Insert Position",
     "titleSlug": "search-insert-position"
   },
@@ -681,7 +681,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "53",
-    "status": "",
+    "status": "ac",
     "title": "Maximum Subarray",
     "titleSlug": "maximum-subarray"
   },
@@ -746,7 +746,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "58",
-    "status": "",
+    "status": "ac",
     "title": "Length of Last Word",
     "titleSlug": "length-of-last-word"
   },
@@ -850,7 +850,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "66",
-    "status": "",
+    "status": "ac",
     "title": "Plus One",
     "titleSlug": "plus-one"
   },
@@ -863,7 +863,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "67",
-    "status": "",
+    "status": "ac",
     "title": "Add Binary",
     "titleSlug": "add-binary"
   },
@@ -888,7 +888,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "69",
-    "status": "",
+    "status": "ac",
     "title": "Sqrt(x)",
     "titleSlug": "sqrtx"
   },
@@ -901,7 +901,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "70",
-    "status": "",
+    "status": "ac",
     "title": "Climbing Stairs",
     "titleSlug": "climbing-stairs"
   },
@@ -2170,7 +2170,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "168",
-    "status": "",
+    "status": "ac",
     "title": "Excel Sheet Column Title",
     "titleSlug": "excel-sheet-column-title"
   },
