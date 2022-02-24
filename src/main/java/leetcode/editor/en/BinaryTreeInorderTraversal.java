@@ -17,8 +17,8 @@ import java.util.Stack;
 public class BinaryTreeInorderTraversal {
     public static void main(String[] args) {
         Solution solution = new BinaryTreeInorderTraversal().new Solution();
-        int[] arr = {1, 2, 3, 4, 5, 6};
-        TreeNode binaryTree = BinaryTreeUtils.createBT(arr, 0);
+        Integer[] arr = {1, 2, 3, 4, 5, 6};
+        TreeNode binaryTree = BinaryTreeUtils.createBT(arr);
         List<Integer> list = solution.inorderTraversal(binaryTree);
         ListUtils.printList(list);
     }

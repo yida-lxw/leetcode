@@ -17,9 +17,9 @@ import java.util.Queue;
 public class SameTree {
     public static void main(String[] args) {
         Solution solution = new SameTree().new Solution();
-        int[] arr = {1, 2, 3, 4, 5, 6};
-        TreeNode binaryTreeP = BinaryTreeUtils.createBT(arr, 0);
-        TreeNode binaryTreeQ = BinaryTreeUtils.createBT(arr, 0);
+        Integer[] arr = {1, 2, 3, 4, 5, 6};
+        TreeNode binaryTreeP = BinaryTreeUtils.createBT(arr);
+        TreeNode binaryTreeQ = BinaryTreeUtils.createBT(arr);
         boolean isSame = solution.isSameTree(binaryTreeP, binaryTreeQ);
         System.out.println(isSame);
     }
