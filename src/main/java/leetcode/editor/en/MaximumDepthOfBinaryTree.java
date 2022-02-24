@@ -16,6 +16,7 @@ public class MaximumDepthOfBinaryTree {
         Solution solution = new MaximumDepthOfBinaryTree().new Solution();
         Integer[] arr = {3, 9, 20, null, null, 15, 7};
         TreeNode binaryTree = BinaryTreeUtils.createBT(arr);
+        BinaryTreeUtils.printBinaryTree(binaryTree);
         int maxDepth = solution.maxDepth(binaryTree);
         System.out.println(maxDepth);
     }
