@@ -1070,7 +1070,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "83",
-    "status": "",
+    "status": "ac",
     "title": "Remove Duplicates from Sorted List",
     "titleSlug": "remove-duplicates-from-sorted-list"
   },
@@ -1083,7 +1083,7 @@
     "level": 3,
     "nodeType": "def",
     "questionId": "84",
-    "status": "",
+    "status": "ac",
     "title": "Largest Rectangle in Histogram",
     "titleSlug": "largest-rectangle-in-histogram"
   },
@@ -1134,7 +1134,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "88",
-    "status": "",
+    "status": "ac",
     "title": "Merge Sorted Array",
     "titleSlug": "merge-sorted-array"
   },
@@ -1212,7 +1212,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "94",
-    "status": "",
+    "status": "ac",
     "title": "Binary Tree Inorder Traversal",
     "titleSlug": "binary-tree-inorder-traversal"
   },
@@ -1290,7 +1290,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "100",
-    "status": "",
+    "status": "ac",
     "title": "Same Tree",
     "titleSlug": "same-tree"
   },
@@ -1303,7 +1303,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "101",
-    "status": "",
+    "status": "ac",
     "title": "Symmetric Tree",
     "titleSlug": "symmetric-tree"
   },
@@ -1342,7 +1342,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "104",
-    "status": "",
+    "status": "ac",
     "title": "Maximum Depth of Binary Tree",
     "titleSlug": "maximum-depth-of-binary-tree"
   },
@@ -1394,7 +1394,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "108",
-    "status": "",
+    "status": "ac",
     "title": "Convert Sorted Array to Binary Search Tree",
     "titleSlug": "convert-sorted-array-to-binary-search-tree"
   },
@@ -1420,7 +1420,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "110",
-    "status": "",
+    "status": "ac",
     "title": "Balanced Binary Tree",
     "titleSlug": "balanced-binary-tree"
   },
@@ -1433,7 +1433,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "111",
-    "status": "",
+    "status": "ac",
     "title": "Minimum Depth of Binary Tree",
     "titleSlug": "minimum-depth-of-binary-tree"
   },
@@ -27097,5 +27097,77 @@
     "status": "",
     "title": "Count Array Pairs Divisible by K",
     "titleSlug": "count-array-pairs-divisible-by-k"
+  },
+  {
+    "articleLive": 0,
+    "formTitle": "[2184]Number of Ways to Build Sturdy Brick Wall",
+    "frontendQuestionId": "2184",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "2322",
+    "status": "lock",
+    "title": "Number of Ways to Build Sturdy Brick Wall",
+    "titleSlug": "number-of-ways-to-build-sturdy-brick-wall"
+  },
+  {
+    "articleLive": 0,
+    "formTitle": "[2185]Counting Words With a Given Prefix",
+    "frontendQuestionId": "2185",
+    "leaf": true,
+    "level": 1,
+    "nodeType": "def",
+    "questionId": "2292",
+    "status": "",
+    "title": "Counting Words With a Given Prefix",
+    "titleSlug": "counting-words-with-a-given-prefix"
+  },
+  {
+    "articleLive": 0,
+    "formTitle": "[2186]Minimum Number of Steps to Make Two Strings Anagram II",
+    "frontendQuestionId": "2186",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "2293",
+    "status": "",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+    "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram-ii"
+  },
+  {
+    "articleLive": 0,
+    "formTitle": "[2187]Minimum Time to Complete Trips",
+    "frontendQuestionId": "2187",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "2294",
+    "status": "",
+    "title": "Minimum Time to Complete Trips",
+    "titleSlug": "minimum-time-to-complete-trips"
+  },
+  {
+    "articleLive": 0,
+    "formTitle": "[2188]Minimum Time to Finish the Race",
+    "frontendQuestionId": "2188",
+    "leaf": true,
+    "level": 3,
+    "nodeType": "def",
+    "questionId": "2295",
+    "status": "",
+    "title": "Minimum Time to Finish the Race",
+    "titleSlug": "minimum-time-to-finish-the-race"
+  },
+  {
+    "articleLive": 0,
+    "formTitle": "[2189]Number of Ways to Build House of Cards",
+    "frontendQuestionId": "2189",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1385",
+    "status": "lock",
+    "title": "Number of Ways to Build House of Cards",
+    "titleSlug": "number-of-ways-to-build-house-of-cards"
   }
 ]
